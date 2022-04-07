@@ -114,6 +114,6 @@ int main() {
 	closesocket(listen_sock);
 
 	// 윈속 마무리
-	//WSACleanup();
+	WSACleanup();
 
 }

@@ -1,5 +1,1 @@
-﻿  TCPClient6.cpp
-D:\4학년 1학기\네트워크 프로그래밍\network\TCPClient1\TCPClient1\TCPClient6.cpp(83,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\4학년 1학기\네트워크 프로그래밍\network\TCPClient1\TCPClient1\TCPClient6.cpp(92,42): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\4학년 1학기\네트워크 프로그래밍\network\TCPClient1\TCPClient1\TCPClient6.cpp(101,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-  TCPClient1.vcxproj -> D:\4학년 1학기\네트워크 프로그래밍\network\TCPClient1\x64\Debug\TCPClient1.exe
+﻿  TCPClient1.vcxproj -> D:\4학년1학기\네트워크프로그래밍\network\TCPClient1\x64\Debug\TCPClient1.exe
